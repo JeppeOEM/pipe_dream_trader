@@ -24,6 +24,6 @@ redis
 alembic
 #ta-lib
 pandas_ta
-numpy==2.1.3
+numpy==2.2.1
 apscheduler
 setuptools
